@@ -24,8 +24,8 @@ The implemented feature was always the same: a small app with a login screen, na
 - The important metric is not only how much it costs to implement once, but how much it costs to revisit the same work weeks later.
 
 ## Downloads
-- [Local SDD](docs/ai-token-benchmark/SDD-login-token-poc.md)
-- [Local TDD](docs/ai-token-benchmark/TDD-login-token-poc.md)
+- [Local SDD](docs/ai-context-benchmark/SDD-login-token-poc.md)
+- [Local TDD](docs/ai-context-benchmark/TDD-login-token-poc.md)
 
 ## Prompts To Reproduce The Test
 
@@ -240,8 +240,8 @@ The AI agent implemented the task using a Notion page and a Notion task as the e
 **Screenshots**
 
 <p>
-  <img src="docs/ai-token-benchmark/assets/scenario-a-login.png" alt="Scenario A login" width="260">
-  <img src="docs/ai-token-benchmark/assets/scenario-a-result.png" alt="Scenario A result" width="260">
+  <img src="docs/ai-context-benchmark/assets/scenario-a-login.png" alt="Scenario A login" width="260">
+  <img src="docs/ai-context-benchmark/assets/scenario-a-result.png" alt="Scenario A result" width="260">
 </p>
 
 ## Scenario B - Pasted Specification
@@ -262,8 +262,8 @@ The AI agent implemented the same feature using only the specification pasted in
 **Screenshots**
 
 <p>
-  <img src="docs/ai-token-benchmark/assets/scenario-b-login.png" alt="Scenario B login" width="260">
-  <img src="docs/ai-token-benchmark/assets/scenario-b-result.png" alt="Scenario B result" width="260">
+  <img src="docs/ai-context-benchmark/assets/scenario-b-login.png" alt="Scenario B login" width="260">
+  <img src="docs/ai-context-benchmark/assets/scenario-b-result.png" alt="Scenario B result" width="260">
 </p>
 
 ## Scenario C - Local SDD/TDD
@@ -284,8 +284,8 @@ The AI agent first created local Markdown documentation and then implemented the
 **Screenshots**
 
 <p>
-  <img src="docs/ai-token-benchmark/assets/scenario-c-login.png" alt="Scenario C login" width="260">
-  <img src="docs/ai-token-benchmark/assets/scenario-c-result.png" alt="Scenario C result" width="260">
+  <img src="docs/ai-context-benchmark/assets/scenario-c-login.png" alt="Scenario C login" width="260">
+  <img src="docs/ai-context-benchmark/assets/scenario-c-result.png" alt="Scenario C result" width="260">
 </p>
 
 ## Short LinkedIn Text
