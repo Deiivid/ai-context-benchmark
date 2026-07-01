@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">ai-context-benchmark</string>
+    <string name="login_poc_title">Prueba de concepto de tokens</string>
+    <string name="login_heading">Iniciar sesión</string>
+    <string name="username_label">Usuario</string>
+    <string name="password_label">Contraseña</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="result_title">Datos de inicio de sesión</string>
+    <string name="result_username_label">Usuario: %1$s</string>
+    <string name="result_password_label">Contraseña: %1$s</string>
 </resources>
